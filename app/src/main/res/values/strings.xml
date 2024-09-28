@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ChamaCoffee</string>
+    <string name="espresso">Espresso</string>
+    <string name="espresso_description">Strong and bold coffee</string>
+    <string name="drink_price_espresso">ราคา: ฿70.00</string>
+
+    <string name="latte">Latte</string>
+    <string name="latte_description">Creamy latte with a hint of vanilla</string>
+    <string name="drink_price_latte">ราคา: ฿80.00</string>
+
+    <string name="cappuccino">Cappuccino</string>
+    <string name="cappuccino_description">Rich and creamy with a sprinkle of cocoa</string>
+    <string name="drink_price_cappuccino">ราคา: ฿90.00</string>
+    <string name="cappuccino_image">Cappuccino Image</string>
+
+    <string name="mocha">Mocha</string>
+    <string name="mocha_description">Delicious chocolate coffee blend</string>
+    <string name="drink_price_mocha">ราคา: ฿65.00</string>
+    <string name="mocha_image">Mocha Image</string>
+
+    <string name="coffee_image">Coffee Image</string>
+</resources>
